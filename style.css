@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(36, 45, 68);
+    color: rgb(183, 208, 214);
+    font-family: Verdana, Arial, Tahoma, sans-serif;
+    text-align: center;
+    padding: 25px;
+}
+ul{
+    text-align: left;
+    margin: 50px;
+}
+ul.index{
+    text-align: center;
+}
+
+li {
+    list-style-position: inside;
+}
+
+li{
+    padding: 7.5px;
+}
+img{ 
+    max-width: 500px;
+    max-height: auto;
+
+}
+a{
+    color: rgb(134, 102, 194);
+}
+a:hover,
+a:active,
+a:focus{
+    color:rgb(176, 208, 122)
+}
